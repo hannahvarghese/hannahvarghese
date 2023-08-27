@@ -10,7 +10,16 @@ I'm excited to focus more on my Economics background and the coding skills I've 
  * Dissecting the environmental impact we make to make recommendations to combat climate change  
 
 ### 🌱 I’m currently learning ... 
-A lot through the Data Analytics and Visualization Bootcamp from my alma mater, The University of Texas at Austin (hook 'em)🤘🏾! I have so much more to learn and am ready to soak it all in!
+A lot through the Data Analytics and Visualization Bootcamp from my alma mater, The University of Texas at Austin (hook 'em)🤘🏾! I have so much more to learn and am ready to soak it all in! I have different repos in my GitHub showcasing different skills I've worked on over the course of the Bootcamp which include:
+* Excel
+* VBA Scripting
+* Python
+* Pandas
+* Madplotlib
+* APIs
+* SQL
+* SQLAlchemy
+* BeautifulSoup
 
 ### 💞️ I’m looking to collaborate on ... 
 with other analysts who would like to make an impact through their work
