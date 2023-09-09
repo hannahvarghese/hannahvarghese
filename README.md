@@ -20,6 +20,10 @@ A lot through the Data Analytics and Visualization Bootcamp from my alma mater, 
 * SQL
 * SQLAlchemy
 * BeautifulSoup
+* NoSQL
+* MongoDB
+* PyMongo
+* JavaScript
 
 ### 💞️ I’m looking to collaborate on ... 
 with other analysts who would like to make an impact through their work
