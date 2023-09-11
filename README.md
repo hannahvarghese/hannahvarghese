@@ -30,6 +30,10 @@ with other analysts who would like to make an impact through their work
 
 ### 📫 How to reach me ...
   * Follow me on [LinkedIn](https://www.linkedin.com/in/hannahvarghese/)
+
+### :fire: My GitHub Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hannahvarghese&theme=dark&border_radius=1&mode=weekly)](https://git.io/streak-stats)
+
 <!---
 hannahvarghese/hannahvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
