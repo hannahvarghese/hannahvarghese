@@ -24,6 +24,11 @@ A lot through the Data Analytics and Visualization Bootcamp from my alma mater, 
 * MongoDB
 * PyMongo
 * JavaScript
+* Leaflet
+* Tableau
+* Machine Learning
+* Neural Networks
+* Big Data
 
 ### 💞️ I’m looking to collaborate on ... 
 with other analysts who would like to make an impact through their work
