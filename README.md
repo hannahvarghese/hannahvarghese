@@ -5,9 +5,10 @@ I'm Hannah Varghese, and I am a former educator transitioning into Data Analytic
 I'm excited to focus more on my Economics background and the coding skills I've recently acquired to provide data-informed solutions to model the way we can show up for others.  
 
 ### 👀 I’m interested in ... 
+ * Helping organizaitons form decisions through data
  * Being able to take on and lead my own projects
- *  Connecting on issues facing educators, students, and families to help districts make better decisions for students
- * Dissecting the environmental impact we make to make recommendations to combat climate change  
+ * Connecting on issues facing educators, students, and families to help districts make better decisions for students
+ * Dissecting the environmental impact we make to make recommendations to combat climate change
 
 ### 🌱 I’m currently learning ... 
 A lot through the Data Analytics and Visualization Bootcamp from my alma mater, The University of Texas at Austin (hook 'em)🤘🏾! I have so much more to learn and am ready to soak it all in! I have different repos in my GitHub showcasing different skills I've worked on over the course of the Bootcamp which include:
